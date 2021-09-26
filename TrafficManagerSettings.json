@@ -1,0 +1,22 @@
+{
+    "ResourceGroupName":"DemoManiResourceGroup12",
+    "TrafficManagerName":"DemoManiTrafficeManager008223",
+    "TrafficManagerEndpoints":{
+        "TrafficmanagerEndpoint1":"Demo-Traffic-EP-App1",
+        "TrafficmanagerEndpoint2":"Demo-Traffic-EP-App2"
+    },
+    
+    "Location":{
+        "Location1":"East US",
+        "Location2":"West Europe"
+    },
+    "AppNameServicePlans":{
+        "APPNameSP1":"Demo1",
+        "APPNameSP2":"Demo2"
+    },
+    "AppNames":{
+        "AppName1":"Demo-App1-Mani",
+        "AppName2":"Demo-App2-Mani"
+    }
+
+}
